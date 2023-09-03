@@ -6,6 +6,7 @@ what this does is creates an easy reverse shell that is always requesting a conn
 
 
 steps:
+
 open powershell
 
 Reverse Shell into victims PC
