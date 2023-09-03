@@ -21,4 +21,7 @@ CD into yess
 
 type start run.bat
 
+and in a new terminal run (ncat -lvnp 4444) or change to what ever port you have selected, (you will have to change the ip in ncat.bat, the ports also have to match)
+
 and you should now have a permanent reverse shell
+
